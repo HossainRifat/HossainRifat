@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 <img
-     width="400px"
+     width="200px"
   align="right"
   alt="Coding"
   src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"
